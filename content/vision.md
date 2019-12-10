@@ -5,7 +5,7 @@ content_img:
   url: '#one'
 sidebar:
   enabled: false
-  side: left
+  side: right
 menu:
   footer:
     weight: 2
