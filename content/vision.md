@@ -8,7 +8,7 @@ sidebar:
   side: right
 menu:
   footer:
-    weight: 1
+    weight: 2
   main:
     name: Vision
 layout: page
