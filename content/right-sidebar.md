@@ -1,6 +1,6 @@
 ---
 title: Right Sidebar
-subtitle: Sed magna in pharetra ultricies dolor sit amet consequat adipiscing lorem.
+subtitle: more information
 content_img:
   enabled: true
   path: images/pic08.jpg
