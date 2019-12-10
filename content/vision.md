@@ -2,13 +2,13 @@
 title: Vision
 content_img:
   enabled: false
-  url: '#one'
+  url: '#'
 sidebar:
   enabled: false
   side: right
 menu:
   footer:
-    weight: 2
+    weight: 1
   main:
     name: Vision
 layout: page
