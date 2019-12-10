@@ -2,7 +2,7 @@
 title: Vision
 content_img:
   enabled: false
-  url: '#'
+  url: '#one'
 sidebar:
   enabled: false
   side: left
