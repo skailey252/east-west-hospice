@@ -1,6 +1,6 @@
 ---
 title: INFORMATION
-subtitle: Sed magna in pharetra ultricies dolor sit amet consequat adipiscing lorem.
+subtitle: More Information
 content_img:
   enabled: true
   path: /images/hospice-22qs690x400.jpg
