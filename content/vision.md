@@ -8,10 +8,10 @@ sidebar:
   side: left
 menu:
   footer:
-    weight: 2
+    weight: 1
   main:
     name: Vision
-    weight: ''
+    weight: 1
 layout: page
 ---
 
