@@ -1,5 +1,5 @@
 ---
-title: Right Sidebar
+title: learn more
 subtitle: more information
 content_img:
   enabled: true
