@@ -5,12 +5,13 @@ content_img:
   url: '#'
 sidebar:
   enabled: false
-  side: right
+  side: left
 menu:
   footer:
     weight: 2
   main:
     name: Vision
+    weight: 1
 layout: page
 ---
 
