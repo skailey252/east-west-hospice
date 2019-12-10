@@ -10,7 +10,7 @@ sidebar:
   side: left
 menu:
   footer:
-    name: Contact
+    name: Information
     weight: 3
 layout: page
 ---
