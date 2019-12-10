@@ -42,7 +42,7 @@ sections:
       - is_primary: false
         is_scrolly: false
         label: works
-        url: /contact
+        url: ''
     component: cta.html
     section_id: cta
     text: >-
