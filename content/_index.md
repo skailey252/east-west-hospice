@@ -41,7 +41,7 @@ sections:
   - actions:
       - is_primary: false
         is_scrolly: false
-        label: How it works
+        label: works
         url: /contact
     component: cta.html
     section_id: cta
@@ -54,11 +54,6 @@ sections:
       support to those who need it.
     title: HOW IT WORKS
     type: cta
-  - component: posts.html
-    section_id: posts
-    subtitle: Sed magna in pharetra ultricies dolor sit amet consequat adipiscing lorem.
-    title: Convallis amet interdum
-    type: posts
 menu:
   main:
     name: Home
