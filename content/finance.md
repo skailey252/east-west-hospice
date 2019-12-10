@@ -12,6 +12,8 @@ menu:
     weight: 6
 layout: page
 ---
+![](/images/financeimages.jpeg)
+
 When we will start this business in these days, then approximately, we will have need nearby $500,000 because in starting, here will be need of medium amount of money.
 
 
@@ -45,7 +47,3 @@ Income for employes
 
 
 Other expenditures
-
-![](/images/financeimages.jpeg)
-
-![]()
