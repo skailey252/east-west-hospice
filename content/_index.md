@@ -52,7 +52,7 @@ sections:
       emotional and spiritual needs East and west means Eastern traditional
       technology with modern western techniques  and media to give extreme
       support to those who need it.
-    title: '2'
+    title: HOW IT WORKS
     type: cta
   - component: posts.html
     section_id: posts
