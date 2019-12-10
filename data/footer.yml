@@ -3,7 +3,7 @@ about:
     - is_primary: false
       is_scrolly: false
       label: Learn More
-      url: /INFORMATION
+      url: ''
   enabled: true
   text: We provide East & West Hospice care facility for the betterment of people.
   title: About Us
@@ -12,19 +12,17 @@ contact_methods:
   methods_col1:
     - icon: fa-map-marker
       text: |-
-        Untitled Corp  
-        1234 Fictional Road  
-        Suite 5432  
-        Nashville, TN 00000
+        ALBERT STREET WEST  
+        Sault Ste. Marie, ON
       title: Address
       type: contact_with_text
   methods_col2:
     - icon: fa-phone
-      text: (000) 000-0000
+      text: (437) 210 4400
       title: Phone
       type: contact_with_text
     - icon: fa-envelope-o
-      text: information@untitled.tld
+      text: information@EASTWESTHOSPICE.COM
       title: Email
       type: contact_with_link
       url: '#'
