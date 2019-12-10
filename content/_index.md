@@ -46,13 +46,13 @@ sections:
     component: cta.html
     section_id: cta
     text: >-
-      Lorem ipsum dolor sit amet interdum mollis sapien. Sed ac risus. Phasellus
-      lacinia, ullamcorper laoreet, lectus arcu pulvinar lorem ipsum interdum
-      sed tempus sagittis lorem feugiat. In fringilla diet consectetur. Morbi
-      libero orci, consectetur in odio maximus felis. Lorem ipsum ullamcorper
-      laoreet, lectus arcu pulvinar lorem ipsum interdum sed tempus sagittis
-      lorem feugiat. In fringilla diet consectetur.
-    title: Ultrices ante sagittis nunc senectus libero netus
+      Basically Hospice  care is a type of care and philosophy of care that
+      focuses on the palliation of a chronically ill, terminally ill or
+      seriously ill patient’s pain and symptoms, and attending to their
+      emotional and spiritual needs East and west means Eastern traditional
+      technology with modern western techniques  and media to give extreme
+      support to those who need it.
+    title: '2'
     type: cta
   - component: posts.html
     section_id: posts
