@@ -1,10 +1,10 @@
 ---
-title: Contact
+title: INFORMATION
 subtitle: Sed magna in pharetra ultricies dolor sit amet consequat adipiscing lorem.
 content_img:
   enabled: true
   path: /images/hospice-22qs690x400.jpg
-  url: '#'
+  url: '#ONE'
 sidebar:
   enabled: false
   side: left
@@ -14,7 +14,7 @@ menu:
     weight: 3
 layout: page
 ---
-### East &West HOSPICE Care Facility_
+### East &West HOSPICE Care Facility
 
 Hospice care is a type of careand philosophy of care that focuses on the palliation ofa chronically ill, terminally ill or seriously ill patient’s pain and symptoms, and attending to their emotional and spiritual needs East and west means Eastern traditional technology with modern western techniques and media to give extreme support to those who need it.
 
