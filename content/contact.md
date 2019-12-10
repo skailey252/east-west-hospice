@@ -3,7 +3,7 @@ title: Contact
 subtitle: Sed magna in pharetra ultricies dolor sit amet consequat adipiscing lorem.
 content_img:
   enabled: true
-  path: images/pic10.jpg
+  path: /images/hospice-22qs690x400.jpg
   url: '#'
 sidebar:
   enabled: false
